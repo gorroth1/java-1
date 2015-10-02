@@ -12,5 +12,11 @@ public final class SkilMon {
     public double catchRate, growhRate, height, width, mfRatio;
     
     public ArrayList<String> abilities, moves, types;
-
+    
+    public SkilMon() {}
+    
+    public SkilMon(String jsonf) {
+        System.out.println("Yeah I am in the constructor: " + jsonf):
+    }
 }
+
