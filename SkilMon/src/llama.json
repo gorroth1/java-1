@@ -1,0 +1,31 @@
+
+{
+  "name": "Llama",
+  "uid": "1",
+  "spits": [ "fart","poop","Youdontwannaknow"],
+  "types": [ "Ugly", "Alpaca"],
+  "moves": ["Saliva","Ninja","Spin"],
+  "description": "",
+  "attack"; 9000,
+  "sp_attack": 10000,
+  "sp_defense": 12345,
+  "species": "Seed",
+  "speed": 0,
+  "total: 31345,
+  "catch_rate": 7000,
+  "ev_yield": "9000 Sp Atk",
+  "evolutions":[
+    {
+      "level": 9000,
+      "method": "level up",
+      "to": "I Pooped My Pants Today",
+    }
+  ],
+  "exp": 900,
+  "growth_rate": "ms",
+  "happiness": 900,
+  "height": 0.7,
+  "eight": 6.9,
+  "hp": 9000,
+  "mf_ratio": 87.5
+}
