@@ -16,7 +16,7 @@ public final class SkilMon {
     public SkilMon() {}
     
     public SkilMon(String jsonf) {
-        System.out.println("Yeah I am in the constructor: " + jsonf):
+        System.out.println("Yeah I am in the constructor: " + jsonf);
     }
 }
 
